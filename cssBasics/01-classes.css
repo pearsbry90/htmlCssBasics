@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+}
+
+.css-class {
+    background-color: lightsteelblue;
+}
+
+.css-class h1 {
+    font-size: 18px;
+}
+
+.css-class p {
+    font-size: 16px;
+    color: red
+}
+
+.css-class li {
+    color: pink
+}
